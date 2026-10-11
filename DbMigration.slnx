@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DbMigration.App/DbMigration.App.csproj" />
+    <Project Path="src/DbMigration.Core/DbMigration.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DbMigration.Tests/DbMigration.Tests.csproj" />
+  </Folder>
+</Solution>
